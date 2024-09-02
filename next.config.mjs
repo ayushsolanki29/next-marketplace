@@ -2,8 +2,14 @@
 const nextConfig = {
   images: {
     remotePatterns: [
-      "localhost",
-      "https://next-marketplace-production.up.railway.app",
+      {
+        protocol: "http",
+        hostname: "localhost",
+      },
+      {
+        protocol: "https",
+        hostname: "next-marketplace-production.up.railway.app",
+      },
     ],
   },
 };
