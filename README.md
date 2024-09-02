@@ -1,6 +1,6 @@
 # Digital Assets Marketplace
 
-![Logo](screenshot/logo.png)
+![Logo](screenshot/1%20(1).png)
 
 ## Overview
 
